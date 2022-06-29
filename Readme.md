@@ -30,10 +30,10 @@ Make sure you will use the data set in the repo.
 
 ## Built With
 
-sales_prediction.ipynb
+Visual studio code
 
 ## Authors
 
-**Ghazi BOUCHNAK** - [Ghazi-13](https://github.com/Ghazi-13)
+**Ghazi BOUCHNAK** - github link -> [Ghazi-13](https://github.com/Ghazi-13)
 
 

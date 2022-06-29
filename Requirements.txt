@@ -1,0 +1,17 @@
+pandas
+numpy
+Datetime
+
+seaborn
+matplotlib.pyplot
+plotly.express 
+plotly.graph_objects 
+plotly.io
+
+sklearn.compose
+sklearn.linear_model
+sklearn.metrics
+sklearn.model_selection
+sklearn.pipeline
+sklearn.preprocessing
+sklearn.compose

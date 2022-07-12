@@ -6,6 +6,11 @@ The project has 3 main steps:
 * Part 2 : Training a linear regression model 
 * Part 3 : Fighting overfitting by training a regularized regression model
 
+## Details for certification purpose
+
+* email adress: ghazibouchnak@gmail.com
+* video link: https://share.vidyard.com/watch/YKaf9HmeUCybkKqrH9tEzL?
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
